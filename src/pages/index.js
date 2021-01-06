@@ -7,6 +7,7 @@ function Index() {
   return (
     <>
       <Helmet>
+        <html lang="en" />
         <title>Gatsby</title>
       </Helmet>
 
